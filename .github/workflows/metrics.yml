@@ -23,3 +23,11 @@ jobs:
           token: ${{ secrets.METRICS }}
           base: ""
           plugin_isocalendar: yes
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.repositories.pinned.svg
+          token: ${{ secrets.METRICS }}
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_pinned: 4
+
