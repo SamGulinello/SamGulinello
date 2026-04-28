@@ -1,6 +1,6 @@
 ![Header](https://github.com/SamGulinello/SamGulinello/blob/main/github-header-image.png)
 ## Hi there 👋
-I am a developer based out of Boston MA. I primarily focus on application development using the traditional web stack and Python. I’m currently learning about PyTorch and utilizing Machine Learning to better predict weather patterns.
+I am a developer based out of Boston MA. I primarily focus on application development using React and Python. I’m currently learning about Next.JS, PyTorch and utilizing Machine Learning to better predict weather patterns.
 <table> 
   <tr>
     <td align="center">
