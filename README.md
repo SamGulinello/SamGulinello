@@ -1,6 +1,6 @@
 ![Header](https://github.com/SamGulinello/SamGulinello/blob/main/github-header-image.png)
 ## Hi there 👋
-I am a developer based out of Boston MA. I primarily focus on application development using React and Python. I’m currently pursuing a certification in Elasticsearch Engineering.
+I am a developer based out of Boston MA. I primarily focus on application development using React and Python. I’m currently pursuing a certification in Elasticsearch Engineering and pursuing opportunities to contribute to agentic devlopment projects.
 <table> 
   <tr>
     <td align="center">
